@@ -1,1 +1,1 @@
-# G-ncel-Son-200-Deprem-Listesini-eken-Program
+# Guncel-Son-200-Deprem-Listesini Getiren-Program
